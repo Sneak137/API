@@ -1,0 +1,41 @@
+ * {
+    font-family: helvetica;
+  }
+  .wrapper {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+  .video-wrapper {
+    margin-bottom: 50px;
+  }
+
+  h1 {
+    text-align: center;
+    color: #cc181e;
+  }
+
+  .search_input {
+    width: 70%;
+    height: 17px;
+    border: 1px solid #ccc;
+    padding: 0;
+    padding: 4px;
+    padding-left: 8px;
+  }
+
+  input[type=submit] {
+    border-radius: 0px;
+    border: 0;
+    width: 25%;
+    height: 27px;
+    vertical-align: top;
+  }
+
+  #result {
+    margin-top: 50px;
+  }
+
+  #title {
+    margin-bottom: 5px;
+  }
